@@ -1,0 +1,19 @@
+{
+  "name": "raspberrypiartshowcase_barebones",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.154.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "vite": "^4.4.7"
+  }
+}
